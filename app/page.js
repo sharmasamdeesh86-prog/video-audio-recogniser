@@ -1,9 +1,0 @@
-export default function Home() {
-  return (
-    <main style={{ padding: 40 }}>
-      <h1>🎵 Video Audio Recogniser</h1>
-      <p>Your app is ready for Vercel.</p>
-      <p>Next step: add audio recognition.</p>
-    </main>
-  );
-}
